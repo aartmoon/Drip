@@ -31,3 +31,7 @@ C++ =  0.3*КР + 0.3*ДЗ + 0.1*Активность + 0.3*Экзамен.
 АНГ (middle) = 0.25INDwork + 0.25writtenASS + 0.2oralSASS + 0.3FinalTest
 
 IndWork = 0.6HomeW + 0.4ClassW
+
+
+Если хотите дополнить вот мой ТГ
+@shark_ov
